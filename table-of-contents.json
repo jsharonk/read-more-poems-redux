@@ -1,0 +1,25 @@
+
+{
+ "name": "(the ouroboros)",
+ "children": [
+  {"name": "you are born"},
+      {"name": "&have some questions"},
+      {"name": "not talked about as much", "children": [
+        {"name": "small", "children": [ 
+          {"name": "thoughts", "children": [
+            {"name": "somewhere"}, 
+            {"name": "mumbling", "poem": [{"x": 20, "y": 20, "text": "you have to move through an emotion to the end of it to know it"},
+                  {"x": 70, "y": 70, "text": "you have to know sad to be funny"},
+                  {"x": 20, "y": 90, "text": "you have to know sad to be kind"}]}, 
+              {"name": "syria", "children":[ 
+              {"name": "kill factory", "children": [ 
+               {"name": "do you"},
+               {"name": "have more things to ask"},
+               {"name": "colonizer"}
+              ]} 
+              
+            ]}
+        ]}
+      ]}
+    ]} 
+  ]} 
